@@ -1,0 +1,1398 @@
+age,sex,citizen,hispan,n
+19,male,born abroad of american parents,not hispanic,195
+19,male,born abroad of american parents,mexican,40
+19,male,born abroad of american parents,puerto rican,15
+19,male,born abroad of american parents,other,19
+19,male,naturalized citizen,not hispanic,370
+19,male,naturalized citizen,mexican,55
+19,male,naturalized citizen,puerto rican,9
+19,male,naturalized citizen,cuban,16
+19,male,naturalized citizen,other,69
+19,female,born abroad of american parents,not hispanic,195
+19,female,born abroad of american parents,mexican,34
+19,female,born abroad of american parents,puerto rican,4
+19,female,born abroad of american parents,cuban,2
+19,female,born abroad of american parents,other,28
+19,female,naturalized citizen,not hispanic,361
+19,female,naturalized citizen,mexican,58
+19,female,naturalized citizen,puerto rican,3
+19,female,naturalized citizen,cuban,17
+19,female,naturalized citizen,other,77
+20,male,born abroad of american parents,not hispanic,188
+20,male,born abroad of american parents,mexican,28
+20,male,born abroad of american parents,puerto rican,7
+20,male,born abroad of american parents,cuban,1
+20,male,born abroad of american parents,other,25
+20,male,naturalized citizen,not hispanic,355
+20,male,naturalized citizen,mexican,69
+20,male,naturalized citizen,puerto rican,3
+20,male,naturalized citizen,cuban,14
+20,male,naturalized citizen,other,84
+20,female,born abroad of american parents,not hispanic,200
+20,female,born abroad of american parents,mexican,24
+20,female,born abroad of american parents,puerto rican,6
+20,female,born abroad of american parents,other,36
+20,female,naturalized citizen,not hispanic,380
+20,female,naturalized citizen,mexican,51
+20,female,naturalized citizen,cuban,16
+20,female,naturalized citizen,other,56
+21,male,born abroad of american parents,not hispanic,155
+21,male,born abroad of american parents,mexican,37
+21,male,born abroad of american parents,puerto rican,7
+21,male,born abroad of american parents,cuban,4
+21,male,born abroad of american parents,other,27
+21,male,naturalized citizen,not hispanic,375
+21,male,naturalized citizen,mexican,83
+21,male,naturalized citizen,puerto rican,1
+21,male,naturalized citizen,cuban,26
+21,male,naturalized citizen,other,95
+21,female,born abroad of american parents,not hispanic,161
+21,female,born abroad of american parents,mexican,28
+21,female,born abroad of american parents,puerto rican,7
+21,female,born abroad of american parents,cuban,6
+21,female,born abroad of american parents,other,19
+21,female,naturalized citizen,not hispanic,410
+21,female,naturalized citizen,mexican,62
+21,female,naturalized citizen,cuban,8
+21,female,naturalized citizen,other,68
+22,male,born abroad of american parents,not hispanic,168
+22,male,born abroad of american parents,mexican,31
+22,male,born abroad of american parents,puerto rican,8
+22,male,born abroad of american parents,cuban,3
+22,male,born abroad of american parents,other,25
+22,male,naturalized citizen,not hispanic,350
+22,male,naturalized citizen,mexican,72
+22,male,naturalized citizen,puerto rican,3
+22,male,naturalized citizen,cuban,12
+22,male,naturalized citizen,other,90
+22,female,born abroad of american parents,not hispanic,158
+22,female,born abroad of american parents,mexican,20
+22,female,born abroad of american parents,puerto rican,3
+22,female,born abroad of american parents,cuban,3
+22,female,born abroad of american parents,other,20
+22,female,naturalized citizen,not hispanic,413
+22,female,naturalized citizen,mexican,80
+22,female,naturalized citizen,puerto rican,1
+22,female,naturalized citizen,cuban,17
+22,female,naturalized citizen,other,71
+23,male,born abroad of american parents,not hispanic,159
+23,male,born abroad of american parents,mexican,23
+23,male,born abroad of american parents,puerto rican,2
+23,male,born abroad of american parents,cuban,4
+23,male,born abroad of american parents,other,28
+23,male,naturalized citizen,not hispanic,377
+23,male,naturalized citizen,mexican,70
+23,male,naturalized citizen,puerto rican,1
+23,male,naturalized citizen,cuban,15
+23,male,naturalized citizen,other,72
+23,female,born abroad of american parents,not hispanic,156
+23,female,born abroad of american parents,mexican,27
+23,female,born abroad of american parents,puerto rican,3
+23,female,born abroad of american parents,cuban,1
+23,female,born abroad of american parents,other,20
+23,female,naturalized citizen,not hispanic,379
+23,female,naturalized citizen,mexican,88
+23,female,naturalized citizen,puerto rican,10
+23,female,naturalized citizen,cuban,10
+23,female,naturalized citizen,other,98
+24,male,born abroad of american parents,not hispanic,194
+24,male,born abroad of american parents,mexican,19
+24,male,born abroad of american parents,puerto rican,2
+24,male,born abroad of american parents,cuban,2
+24,male,born abroad of american parents,other,16
+24,male,naturalized citizen,not hispanic,366
+24,male,naturalized citizen,mexican,92
+24,male,naturalized citizen,cuban,19
+24,male,naturalized citizen,other,93
+24,female,born abroad of american parents,not hispanic,150
+24,female,born abroad of american parents,mexican,26
+24,female,born abroad of american parents,puerto rican,5
+24,female,born abroad of american parents,cuban,2
+24,female,born abroad of american parents,other,11
+24,female,naturalized citizen,not hispanic,412
+24,female,naturalized citizen,mexican,91
+24,female,naturalized citizen,puerto rican,1
+24,female,naturalized citizen,cuban,20
+24,female,naturalized citizen,other,68
+25,male,born abroad of american parents,not hispanic,139
+25,male,born abroad of american parents,mexican,23
+25,male,born abroad of american parents,puerto rican,9
+25,male,born abroad of american parents,cuban,1
+25,male,born abroad of american parents,other,21
+25,male,naturalized citizen,not hispanic,404
+25,male,naturalized citizen,mexican,88
+25,male,naturalized citizen,puerto rican,2
+25,male,naturalized citizen,cuban,17
+25,male,naturalized citizen,other,108
+25,female,born abroad of american parents,not hispanic,149
+25,female,born abroad of american parents,mexican,31
+25,female,born abroad of american parents,puerto rican,1
+25,female,born abroad of american parents,cuban,3
+25,female,born abroad of american parents,other,20
+25,female,naturalized citizen,not hispanic,420
+25,female,naturalized citizen,mexican,103
+25,female,naturalized citizen,puerto rican,3
+25,female,naturalized citizen,cuban,19
+25,female,naturalized citizen,other,87
+26,male,born abroad of american parents,not hispanic,139
+26,male,born abroad of american parents,mexican,26
+26,male,born abroad of american parents,puerto rican,9
+26,male,born abroad of american parents,cuban,3
+26,male,born abroad of american parents,other,18
+26,male,naturalized citizen,not hispanic,446
+26,male,naturalized citizen,mexican,100
+26,male,naturalized citizen,puerto rican,3
+26,male,naturalized citizen,cuban,30
+26,male,naturalized citizen,other,91
+26,female,born abroad of american parents,not hispanic,150
+26,female,born abroad of american parents,mexican,37
+26,female,born abroad of american parents,puerto rican,2
+26,female,born abroad of american parents,cuban,1
+26,female,born abroad of american parents,other,24
+26,female,naturalized citizen,not hispanic,446
+26,female,naturalized citizen,mexican,95
+26,female,naturalized citizen,puerto rican,4
+26,female,naturalized citizen,cuban,18
+26,female,naturalized citizen,other,116
+27,male,born abroad of american parents,not hispanic,188
+27,male,born abroad of american parents,mexican,32
+27,male,born abroad of american parents,puerto rican,1
+27,male,born abroad of american parents,cuban,1
+27,male,born abroad of american parents,other,20
+27,male,naturalized citizen,not hispanic,483
+27,male,naturalized citizen,mexican,103
+27,male,naturalized citizen,puerto rican,6
+27,male,naturalized citizen,cuban,17
+27,male,naturalized citizen,other,117
+27,female,born abroad of american parents,not hispanic,152
+27,female,born abroad of american parents,mexican,26
+27,female,born abroad of american parents,puerto rican,7
+27,female,born abroad of american parents,cuban,1
+27,female,born abroad of american parents,other,28
+27,female,naturalized citizen,not hispanic,469
+27,female,naturalized citizen,mexican,113
+27,female,naturalized citizen,puerto rican,4
+27,female,naturalized citizen,cuban,18
+27,female,naturalized citizen,other,102
+28,male,born abroad of american parents,not hispanic,180
+28,male,born abroad of american parents,mexican,28
+28,male,born abroad of american parents,puerto rican,7
+28,male,born abroad of american parents,cuban,1
+28,male,born abroad of american parents,other,17
+28,male,naturalized citizen,not hispanic,509
+28,male,naturalized citizen,mexican,132
+28,male,naturalized citizen,puerto rican,6
+28,male,naturalized citizen,cuban,29
+28,male,naturalized citizen,other,102
+28,female,born abroad of american parents,not hispanic,181
+28,female,born abroad of american parents,mexican,25
+28,female,born abroad of american parents,puerto rican,6
+28,female,born abroad of american parents,cuban,1
+28,female,born abroad of american parents,other,23
+28,female,naturalized citizen,not hispanic,535
+28,female,naturalized citizen,mexican,124
+28,female,naturalized citizen,puerto rican,4
+28,female,naturalized citizen,cuban,15
+28,female,naturalized citizen,other,115
+29,male,born abroad of american parents,not hispanic,203
+29,male,born abroad of american parents,mexican,28
+29,male,born abroad of american parents,puerto rican,10
+29,male,born abroad of american parents,cuban,1
+29,male,born abroad of american parents,other,20
+29,male,naturalized citizen,not hispanic,509
+29,male,naturalized citizen,mexican,115
+29,male,naturalized citizen,puerto rican,3
+29,male,naturalized citizen,cuban,24
+29,male,naturalized citizen,other,126
+29,female,born abroad of american parents,not hispanic,169
+29,female,born abroad of american parents,mexican,24
+29,female,born abroad of american parents,puerto rican,13
+29,female,born abroad of american parents,cuban,2
+29,female,born abroad of american parents,other,16
+29,female,naturalized citizen,not hispanic,572
+29,female,naturalized citizen,mexican,121
+29,female,naturalized citizen,puerto rican,3
+29,female,naturalized citizen,cuban,34
+29,female,naturalized citizen,other,139
+30,male,born abroad of american parents,not hispanic,206
+30,male,born abroad of american parents,mexican,20
+30,male,born abroad of american parents,puerto rican,9
+30,male,born abroad of american parents,cuban,1
+30,male,born abroad of american parents,other,20
+30,male,naturalized citizen,not hispanic,577
+30,male,naturalized citizen,mexican,136
+30,male,naturalized citizen,cuban,28
+30,male,naturalized citizen,other,123
+30,female,born abroad of american parents,not hispanic,171
+30,female,born abroad of american parents,mexican,25
+30,female,born abroad of american parents,puerto rican,5
+30,female,born abroad of american parents,cuban,1
+30,female,born abroad of american parents,other,18
+30,female,naturalized citizen,not hispanic,681
+30,female,naturalized citizen,mexican,155
+30,female,naturalized citizen,cuban,37
+30,female,naturalized citizen,other,152
+31,male,born abroad of american parents,not hispanic,176
+31,male,born abroad of american parents,mexican,34
+31,male,born abroad of american parents,puerto rican,7
+31,male,born abroad of american parents,cuban,4
+31,male,born abroad of american parents,other,23
+31,male,naturalized citizen,not hispanic,646
+31,male,naturalized citizen,mexican,177
+31,male,naturalized citizen,puerto rican,6
+31,male,naturalized citizen,cuban,30
+31,male,naturalized citizen,other,151
+31,female,born abroad of american parents,not hispanic,195
+31,female,born abroad of american parents,mexican,28
+31,female,born abroad of american parents,puerto rican,4
+31,female,born abroad of american parents,cuban,1
+31,female,born abroad of american parents,other,27
+31,female,naturalized citizen,not hispanic,722
+31,female,naturalized citizen,mexican,205
+31,female,naturalized citizen,puerto rican,2
+31,female,naturalized citizen,cuban,24
+31,female,naturalized citizen,other,181
+32,male,born abroad of american parents,not hispanic,203
+32,male,born abroad of american parents,mexican,40
+32,male,born abroad of american parents,puerto rican,2
+32,male,born abroad of american parents,cuban,3
+32,male,born abroad of american parents,other,19
+32,male,naturalized citizen,not hispanic,602
+32,male,naturalized citizen,mexican,163
+32,male,naturalized citizen,puerto rican,3
+32,male,naturalized citizen,cuban,24
+32,male,naturalized citizen,other,141
+32,female,born abroad of american parents,not hispanic,199
+32,female,born abroad of american parents,mexican,25
+32,female,born abroad of american parents,puerto rican,6
+32,female,born abroad of american parents,cuban,4
+32,female,born abroad of american parents,other,20
+32,female,naturalized citizen,not hispanic,723
+32,female,naturalized citizen,mexican,183
+32,female,naturalized citizen,puerto rican,4
+32,female,naturalized citizen,cuban,25
+32,female,naturalized citizen,other,160
+33,male,born abroad of american parents,not hispanic,195
+33,male,born abroad of american parents,mexican,23
+33,male,born abroad of american parents,puerto rican,7
+33,male,born abroad of american parents,cuban,2
+33,male,born abroad of american parents,other,8
+33,male,naturalized citizen,not hispanic,717
+33,male,naturalized citizen,mexican,178
+33,male,naturalized citizen,puerto rican,1
+33,male,naturalized citizen,cuban,18
+33,male,naturalized citizen,other,166
+33,female,born abroad of american parents,not hispanic,172
+33,female,born abroad of american parents,mexican,15
+33,female,born abroad of american parents,puerto rican,1
+33,female,born abroad of american parents,cuban,2
+33,female,born abroad of american parents,other,22
+33,female,naturalized citizen,not hispanic,768
+33,female,naturalized citizen,mexican,204
+33,female,naturalized citizen,cuban,32
+33,female,naturalized citizen,other,180
+34,male,born abroad of american parents,not hispanic,171
+34,male,born abroad of american parents,mexican,18
+34,male,born abroad of american parents,puerto rican,7
+34,male,born abroad of american parents,cuban,1
+34,male,born abroad of american parents,other,17
+34,male,naturalized citizen,not hispanic,687
+34,male,naturalized citizen,mexican,188
+34,male,naturalized citizen,puerto rican,5
+34,male,naturalized citizen,cuban,33
+34,male,naturalized citizen,other,149
+34,female,born abroad of american parents,not hispanic,181
+34,female,born abroad of american parents,mexican,22
+34,female,born abroad of american parents,puerto rican,7
+34,female,born abroad of american parents,other,20
+34,female,naturalized citizen,not hispanic,819
+34,female,naturalized citizen,mexican,192
+34,female,naturalized citizen,puerto rican,3
+34,female,naturalized citizen,cuban,36
+34,female,naturalized citizen,other,182
+35,male,born abroad of american parents,not hispanic,162
+35,male,born abroad of american parents,mexican,26
+35,male,born abroad of american parents,puerto rican,3
+35,male,born abroad of american parents,other,15
+35,male,naturalized citizen,not hispanic,751
+35,male,naturalized citizen,mexican,182
+35,male,naturalized citizen,puerto rican,6
+35,male,naturalized citizen,cuban,25
+35,male,naturalized citizen,other,165
+35,female,born abroad of american parents,not hispanic,123
+35,female,born abroad of american parents,mexican,21
+35,female,born abroad of american parents,puerto rican,3
+35,female,born abroad of american parents,cuban,1
+35,female,born abroad of american parents,other,15
+35,female,naturalized citizen,not hispanic,923
+35,female,naturalized citizen,mexican,255
+35,female,naturalized citizen,puerto rican,2
+35,female,naturalized citizen,cuban,35
+35,female,naturalized citizen,other,205
+36,male,born abroad of american parents,not hispanic,173
+36,male,born abroad of american parents,mexican,23
+36,male,born abroad of american parents,puerto rican,4
+36,male,born abroad of american parents,cuban,1
+36,male,born abroad of american parents,other,19
+36,male,naturalized citizen,not hispanic,779
+36,male,naturalized citizen,mexican,195
+36,male,naturalized citizen,puerto rican,7
+36,male,naturalized citizen,cuban,33
+36,male,naturalized citizen,other,151
+36,female,born abroad of american parents,not hispanic,165
+36,female,born abroad of american parents,mexican,19
+36,female,born abroad of american parents,puerto rican,4
+36,female,born abroad of american parents,cuban,1
+36,female,born abroad of american parents,other,21
+36,female,naturalized citizen,not hispanic,1022
+36,female,naturalized citizen,mexican,254
+36,female,naturalized citizen,puerto rican,3
+36,female,naturalized citizen,cuban,33
+36,female,naturalized citizen,other,220
+37,male,born abroad of american parents,not hispanic,164
+37,male,born abroad of american parents,mexican,12
+37,male,born abroad of american parents,puerto rican,4
+37,male,born abroad of american parents,cuban,1
+37,male,born abroad of american parents,other,19
+37,male,naturalized citizen,not hispanic,804
+37,male,naturalized citizen,mexican,184
+37,male,naturalized citizen,puerto rican,5
+37,male,naturalized citizen,cuban,28
+37,male,naturalized citizen,other,194
+37,female,born abroad of american parents,not hispanic,166
+37,female,born abroad of american parents,mexican,30
+37,female,born abroad of american parents,puerto rican,3
+37,female,born abroad of american parents,cuban,3
+37,female,born abroad of american parents,other,18
+37,female,naturalized citizen,not hispanic,1078
+37,female,naturalized citizen,mexican,256
+37,female,naturalized citizen,puerto rican,3
+37,female,naturalized citizen,cuban,22
+37,female,naturalized citizen,other,241
+38,male,born abroad of american parents,not hispanic,169
+38,male,born abroad of american parents,mexican,14
+38,male,born abroad of american parents,puerto rican,6
+38,male,born abroad of american parents,other,15
+38,male,naturalized citizen,not hispanic,817
+38,male,naturalized citizen,mexican,182
+38,male,naturalized citizen,puerto rican,7
+38,male,naturalized citizen,cuban,21
+38,male,naturalized citizen,other,158
+38,female,born abroad of american parents,not hispanic,147
+38,female,born abroad of american parents,mexican,23
+38,female,born abroad of american parents,puerto rican,3
+38,female,born abroad of american parents,cuban,2
+38,female,born abroad of american parents,other,14
+38,female,naturalized citizen,not hispanic,1085
+38,female,naturalized citizen,mexican,238
+38,female,naturalized citizen,puerto rican,4
+38,female,naturalized citizen,cuban,22
+38,female,naturalized citizen,other,256
+39,male,born abroad of american parents,not hispanic,149
+39,male,born abroad of american parents,mexican,25
+39,male,born abroad of american parents,puerto rican,2
+39,male,born abroad of american parents,other,18
+39,male,naturalized citizen,not hispanic,871
+39,male,naturalized citizen,mexican,201
+39,male,naturalized citizen,puerto rican,1
+39,male,naturalized citizen,cuban,34
+39,male,naturalized citizen,other,203
+39,female,born abroad of american parents,not hispanic,143
+39,female,born abroad of american parents,mexican,15
+39,female,born abroad of american parents,puerto rican,1
+39,female,born abroad of american parents,cuban,1
+39,female,born abroad of american parents,other,14
+39,female,naturalized citizen,not hispanic,1126
+39,female,naturalized citizen,mexican,236
+39,female,naturalized citizen,puerto rican,3
+39,female,naturalized citizen,cuban,38
+39,female,naturalized citizen,other,258
+40,male,born abroad of american parents,not hispanic,143
+40,male,born abroad of american parents,mexican,22
+40,male,born abroad of american parents,puerto rican,5
+40,male,born abroad of american parents,cuban,2
+40,male,born abroad of american parents,other,7
+40,male,naturalized citizen,not hispanic,897
+40,male,naturalized citizen,mexican,195
+40,male,naturalized citizen,puerto rican,6
+40,male,naturalized citizen,cuban,37
+40,male,naturalized citizen,other,180
+40,female,born abroad of american parents,not hispanic,146
+40,female,born abroad of american parents,mexican,21
+40,female,born abroad of american parents,puerto rican,1
+40,female,born abroad of american parents,cuban,1
+40,female,born abroad of american parents,other,13
+40,female,naturalized citizen,not hispanic,1153
+40,female,naturalized citizen,mexican,231
+40,female,naturalized citizen,puerto rican,6
+40,female,naturalized citizen,cuban,45
+40,female,naturalized citizen,other,291
+41,male,born abroad of american parents,not hispanic,138
+41,male,born abroad of american parents,mexican,19
+41,male,born abroad of american parents,puerto rican,3
+41,male,born abroad of american parents,cuban,1
+41,male,born abroad of american parents,other,24
+41,male,naturalized citizen,not hispanic,1043
+41,male,naturalized citizen,mexican,246
+41,male,naturalized citizen,puerto rican,5
+41,male,naturalized citizen,cuban,33
+41,male,naturalized citizen,other,238
+41,female,born abroad of american parents,not hispanic,154
+41,female,born abroad of american parents,mexican,21
+41,female,born abroad of american parents,puerto rican,1
+41,female,born abroad of american parents,cuban,2
+41,female,born abroad of american parents,other,23
+41,female,naturalized citizen,not hispanic,1289
+41,female,naturalized citizen,mexican,282
+41,female,naturalized citizen,puerto rican,7
+41,female,naturalized citizen,cuban,33
+41,female,naturalized citizen,other,294
+42,male,born abroad of american parents,not hispanic,154
+42,male,born abroad of american parents,mexican,13
+42,male,born abroad of american parents,puerto rican,5
+42,male,born abroad of american parents,cuban,1
+42,male,born abroad of american parents,other,15
+42,male,naturalized citizen,not hispanic,965
+42,male,naturalized citizen,mexican,246
+42,male,naturalized citizen,puerto rican,2
+42,male,naturalized citizen,cuban,36
+42,male,naturalized citizen,other,187
+42,female,born abroad of american parents,not hispanic,156
+42,female,born abroad of american parents,mexican,18
+42,female,born abroad of american parents,puerto rican,8
+42,female,born abroad of american parents,cuban,1
+42,female,born abroad of american parents,other,10
+42,female,naturalized citizen,not hispanic,1299
+42,female,naturalized citizen,mexican,308
+42,female,naturalized citizen,puerto rican,5
+42,female,naturalized citizen,cuban,41
+42,female,naturalized citizen,other,308
+43,male,born abroad of american parents,not hispanic,158
+43,male,born abroad of american parents,mexican,27
+43,male,born abroad of american parents,puerto rican,3
+43,male,born abroad of american parents,cuban,3
+43,male,born abroad of american parents,other,20
+43,male,naturalized citizen,not hispanic,1046
+43,male,naturalized citizen,mexican,234
+43,male,naturalized citizen,puerto rican,5
+43,male,naturalized citizen,cuban,33
+43,male,naturalized citizen,other,243
+43,female,born abroad of american parents,not hispanic,156
+43,female,born abroad of american parents,mexican,19
+43,female,born abroad of american parents,puerto rican,4
+43,female,born abroad of american parents,cuban,1
+43,female,born abroad of american parents,other,17
+43,female,naturalized citizen,not hispanic,1381
+43,female,naturalized citizen,mexican,316
+43,female,naturalized citizen,puerto rican,6
+43,female,naturalized citizen,cuban,60
+43,female,naturalized citizen,other,306
+44,male,born abroad of american parents,not hispanic,154
+44,male,born abroad of american parents,mexican,17
+44,male,born abroad of american parents,other,9
+44,male,naturalized citizen,not hispanic,1136
+44,male,naturalized citizen,mexican,235
+44,male,naturalized citizen,puerto rican,2
+44,male,naturalized citizen,cuban,33
+44,male,naturalized citizen,other,201
+44,female,born abroad of american parents,not hispanic,160
+44,female,born abroad of american parents,mexican,15
+44,female,born abroad of american parents,puerto rican,1
+44,female,born abroad of american parents,cuban,3
+44,female,born abroad of american parents,other,10
+44,female,naturalized citizen,not hispanic,1427
+44,female,naturalized citizen,mexican,349
+44,female,naturalized citizen,puerto rican,1
+44,female,naturalized citizen,cuban,46
+44,female,naturalized citizen,other,294
+45,male,born abroad of american parents,not hispanic,182
+45,male,born abroad of american parents,mexican,15
+45,male,born abroad of american parents,puerto rican,5
+45,male,born abroad of american parents,cuban,1
+45,male,born abroad of american parents,other,5
+45,male,naturalized citizen,not hispanic,1208
+45,male,naturalized citizen,mexican,274
+45,male,naturalized citizen,puerto rican,5
+45,male,naturalized citizen,cuban,57
+45,male,naturalized citizen,other,212
+45,female,born abroad of american parents,not hispanic,151
+45,female,born abroad of american parents,mexican,17
+45,female,born abroad of american parents,puerto rican,2
+45,female,born abroad of american parents,cuban,1
+45,female,born abroad of american parents,other,15
+45,female,naturalized citizen,not hispanic,1428
+45,female,naturalized citizen,mexican,321
+45,female,naturalized citizen,puerto rican,4
+45,female,naturalized citizen,cuban,44
+45,female,naturalized citizen,other,325
+46,male,born abroad of american parents,not hispanic,200
+46,male,born abroad of american parents,mexican,15
+46,male,born abroad of american parents,puerto rican,3
+46,male,born abroad of american parents,cuban,1
+46,male,born abroad of american parents,other,23
+46,male,naturalized citizen,not hispanic,1284
+46,male,naturalized citizen,mexican,282
+46,male,naturalized citizen,puerto rican,9
+46,male,naturalized citizen,cuban,55
+46,male,naturalized citizen,other,217
+46,female,born abroad of american parents,not hispanic,192
+46,female,born abroad of american parents,mexican,24
+46,female,born abroad of american parents,puerto rican,4
+46,female,born abroad of american parents,cuban,5
+46,female,born abroad of american parents,other,14
+46,female,naturalized citizen,not hispanic,1639
+46,female,naturalized citizen,mexican,376
+46,female,naturalized citizen,puerto rican,6
+46,female,naturalized citizen,cuban,51
+46,female,naturalized citizen,other,327
+47,male,born abroad of american parents,not hispanic,197
+47,male,born abroad of american parents,mexican,23
+47,male,born abroad of american parents,puerto rican,2
+47,male,born abroad of american parents,cuban,1
+47,male,born abroad of american parents,other,7
+47,male,naturalized citizen,not hispanic,1277
+47,male,naturalized citizen,mexican,319
+47,male,naturalized citizen,puerto rican,2
+47,male,naturalized citizen,cuban,51
+47,male,naturalized citizen,other,250
+47,female,born abroad of american parents,not hispanic,201
+47,female,born abroad of american parents,mexican,15
+47,female,born abroad of american parents,puerto rican,3
+47,female,born abroad of american parents,other,5
+47,female,naturalized citizen,not hispanic,1603
+47,female,naturalized citizen,mexican,375
+47,female,naturalized citizen,puerto rican,4
+47,female,naturalized citizen,cuban,55
+47,female,naturalized citizen,other,330
+48,male,born abroad of american parents,not hispanic,201
+48,male,born abroad of american parents,mexican,15
+48,male,born abroad of american parents,cuban,1
+48,male,born abroad of american parents,other,5
+48,male,naturalized citizen,not hispanic,1276
+48,male,naturalized citizen,mexican,320
+48,male,naturalized citizen,puerto rican,3
+48,male,naturalized citizen,cuban,60
+48,male,naturalized citizen,other,238
+48,female,born abroad of american parents,not hispanic,191
+48,female,born abroad of american parents,mexican,16
+48,female,born abroad of american parents,puerto rican,1
+48,female,born abroad of american parents,other,11
+48,female,naturalized citizen,not hispanic,1614
+48,female,naturalized citizen,mexican,397
+48,female,naturalized citizen,puerto rican,6
+48,female,naturalized citizen,cuban,54
+48,female,naturalized citizen,other,315
+49,male,born abroad of american parents,not hispanic,209
+49,male,born abroad of american parents,mexican,10
+49,male,born abroad of american parents,puerto rican,1
+49,male,born abroad of american parents,cuban,1
+49,male,born abroad of american parents,other,14
+49,male,naturalized citizen,not hispanic,1280
+49,male,naturalized citizen,mexican,352
+49,male,naturalized citizen,puerto rican,1
+49,male,naturalized citizen,cuban,53
+49,male,naturalized citizen,other,267
+49,female,born abroad of american parents,not hispanic,200
+49,female,born abroad of american parents,mexican,17
+49,female,born abroad of american parents,puerto rican,3
+49,female,born abroad of american parents,cuban,1
+49,female,born abroad of american parents,other,20
+49,female,naturalized citizen,not hispanic,1613
+49,female,naturalized citizen,mexican,367
+49,female,naturalized citizen,puerto rican,4
+49,female,naturalized citizen,cuban,48
+49,female,naturalized citizen,other,322
+50,male,born abroad of american parents,not hispanic,168
+50,male,born abroad of american parents,mexican,21
+50,male,born abroad of american parents,puerto rican,3
+50,male,born abroad of american parents,cuban,3
+50,male,born abroad of american parents,other,7
+50,male,naturalized citizen,not hispanic,1326
+50,male,naturalized citizen,mexican,390
+50,male,naturalized citizen,puerto rican,4
+50,male,naturalized citizen,cuban,54
+50,male,naturalized citizen,other,272
+50,female,born abroad of american parents,not hispanic,187
+50,female,born abroad of american parents,mexican,16
+50,female,born abroad of american parents,puerto rican,2
+50,female,born abroad of american parents,cuban,2
+50,female,born abroad of american parents,other,10
+50,female,naturalized citizen,not hispanic,1604
+50,female,naturalized citizen,mexican,387
+50,female,naturalized citizen,puerto rican,3
+50,female,naturalized citizen,cuban,57
+50,female,naturalized citizen,other,317
+51,male,born abroad of american parents,not hispanic,185
+51,male,born abroad of american parents,mexican,17
+51,male,born abroad of american parents,puerto rican,2
+51,male,born abroad of american parents,other,12
+51,male,naturalized citizen,not hispanic,1403
+51,male,naturalized citizen,mexican,428
+51,male,naturalized citizen,puerto rican,3
+51,male,naturalized citizen,cuban,51
+51,male,naturalized citizen,other,283
+51,female,born abroad of american parents,not hispanic,155
+51,female,born abroad of american parents,mexican,18
+51,female,born abroad of american parents,puerto rican,1
+51,female,born abroad of american parents,cuban,2
+51,female,born abroad of american parents,other,18
+51,female,naturalized citizen,not hispanic,1631
+51,female,naturalized citizen,mexican,465
+51,female,naturalized citizen,puerto rican,3
+51,female,naturalized citizen,cuban,61
+51,female,naturalized citizen,other,337
+52,male,born abroad of american parents,not hispanic,187
+52,male,born abroad of american parents,mexican,15
+52,male,born abroad of american parents,puerto rican,1
+52,male,born abroad of american parents,cuban,2
+52,male,born abroad of american parents,other,12
+52,male,naturalized citizen,not hispanic,1254
+52,male,naturalized citizen,mexican,420
+52,male,naturalized citizen,puerto rican,5
+52,male,naturalized citizen,cuban,55
+52,male,naturalized citizen,other,253
+52,female,born abroad of american parents,not hispanic,187
+52,female,born abroad of american parents,mexican,13
+52,female,born abroad of american parents,puerto rican,1
+52,female,born abroad of american parents,cuban,1
+52,female,born abroad of american parents,other,12
+52,female,naturalized citizen,not hispanic,1510
+52,female,naturalized citizen,mexican,359
+52,female,naturalized citizen,puerto rican,7
+52,female,naturalized citizen,cuban,64
+52,female,naturalized citizen,other,314
+53,male,born abroad of american parents,not hispanic,189
+53,male,born abroad of american parents,mexican,21
+53,male,born abroad of american parents,cuban,1
+53,male,born abroad of american parents,other,18
+53,male,naturalized citizen,not hispanic,1429
+53,male,naturalized citizen,mexican,429
+53,male,naturalized citizen,puerto rican,6
+53,male,naturalized citizen,cuban,82
+53,male,naturalized citizen,other,254
+53,female,born abroad of american parents,not hispanic,196
+53,female,born abroad of american parents,mexican,16
+53,female,born abroad of american parents,puerto rican,5
+53,female,born abroad of american parents,other,12
+53,female,naturalized citizen,not hispanic,1536
+53,female,naturalized citizen,mexican,406
+53,female,naturalized citizen,puerto rican,4
+53,female,naturalized citizen,cuban,77
+53,female,naturalized citizen,other,341
+54,male,born abroad of american parents,not hispanic,209
+54,male,born abroad of american parents,mexican,19
+54,male,born abroad of american parents,puerto rican,1
+54,male,born abroad of american parents,cuban,3
+54,male,born abroad of american parents,other,13
+54,male,naturalized citizen,not hispanic,1349
+54,male,naturalized citizen,mexican,422
+54,male,naturalized citizen,puerto rican,5
+54,male,naturalized citizen,cuban,73
+54,male,naturalized citizen,other,268
+54,female,born abroad of american parents,not hispanic,201
+54,female,born abroad of american parents,mexican,10
+54,female,born abroad of american parents,puerto rican,3
+54,female,born abroad of american parents,cuban,2
+54,female,born abroad of american parents,other,15
+54,female,naturalized citizen,not hispanic,1628
+54,female,naturalized citizen,mexican,364
+54,female,naturalized citizen,puerto rican,6
+54,female,naturalized citizen,cuban,78
+54,female,naturalized citizen,other,317
+55,male,born abroad of american parents,not hispanic,211
+55,male,born abroad of american parents,mexican,20
+55,male,born abroad of american parents,puerto rican,3
+55,male,born abroad of american parents,other,10
+55,male,naturalized citizen,not hispanic,1418
+55,male,naturalized citizen,mexican,423
+55,male,naturalized citizen,puerto rican,5
+55,male,naturalized citizen,cuban,84
+55,male,naturalized citizen,other,269
+55,female,born abroad of american parents,not hispanic,219
+55,female,born abroad of american parents,mexican,14
+55,female,born abroad of american parents,puerto rican,1
+55,female,born abroad of american parents,other,9
+55,female,naturalized citizen,not hispanic,1645
+55,female,naturalized citizen,mexican,373
+55,female,naturalized citizen,puerto rican,11
+55,female,naturalized citizen,cuban,75
+55,female,naturalized citizen,other,378
+56,male,born abroad of american parents,not hispanic,202
+56,male,born abroad of american parents,mexican,17
+56,male,born abroad of american parents,puerto rican,4
+56,male,born abroad of american parents,cuban,1
+56,male,born abroad of american parents,other,7
+56,male,naturalized citizen,not hispanic,1424
+56,male,naturalized citizen,mexican,422
+56,male,naturalized citizen,puerto rican,4
+56,male,naturalized citizen,cuban,84
+56,male,naturalized citizen,other,305
+56,female,born abroad of american parents,not hispanic,216
+56,female,born abroad of american parents,mexican,19
+56,female,born abroad of american parents,puerto rican,1
+56,female,born abroad of american parents,cuban,4
+56,female,born abroad of american parents,other,10
+56,female,naturalized citizen,not hispanic,1576
+56,female,naturalized citizen,mexican,382
+56,female,naturalized citizen,puerto rican,7
+56,female,naturalized citizen,cuban,101
+56,female,naturalized citizen,other,429
+57,male,born abroad of american parents,not hispanic,199
+57,male,born abroad of american parents,mexican,16
+57,male,born abroad of american parents,puerto rican,2
+57,male,born abroad of american parents,cuban,1
+57,male,born abroad of american parents,other,10
+57,male,naturalized citizen,not hispanic,1349
+57,male,naturalized citizen,mexican,372
+57,male,naturalized citizen,puerto rican,2
+57,male,naturalized citizen,cuban,93
+57,male,naturalized citizen,other,280
+57,female,born abroad of american parents,not hispanic,232
+57,female,born abroad of american parents,mexican,17
+57,female,born abroad of american parents,puerto rican,2
+57,female,born abroad of american parents,cuban,1
+57,female,born abroad of american parents,other,9
+57,female,naturalized citizen,not hispanic,1495
+57,female,naturalized citizen,mexican,380
+57,female,naturalized citizen,puerto rican,3
+57,female,naturalized citizen,cuban,84
+57,female,naturalized citizen,other,370
+58,male,born abroad of american parents,not hispanic,209
+58,male,born abroad of american parents,mexican,12
+58,male,born abroad of american parents,puerto rican,3
+58,male,born abroad of american parents,cuban,3
+58,male,born abroad of american parents,other,13
+58,male,naturalized citizen,not hispanic,1359
+58,male,naturalized citizen,mexican,353
+58,male,naturalized citizen,puerto rican,3
+58,male,naturalized citizen,cuban,84
+58,male,naturalized citizen,other,296
+58,female,born abroad of american parents,not hispanic,224
+58,female,born abroad of american parents,mexican,14
+58,female,born abroad of american parents,puerto rican,4
+58,female,born abroad of american parents,cuban,3
+58,female,born abroad of american parents,other,12
+58,female,naturalized citizen,not hispanic,1562
+58,female,naturalized citizen,mexican,343
+58,female,naturalized citizen,puerto rican,3
+58,female,naturalized citizen,cuban,88
+58,female,naturalized citizen,other,337
+59,male,born abroad of american parents,not hispanic,246
+59,male,born abroad of american parents,mexican,8
+59,male,born abroad of american parents,puerto rican,4
+59,male,born abroad of american parents,other,10
+59,male,naturalized citizen,not hispanic,1325
+59,male,naturalized citizen,mexican,391
+59,male,naturalized citizen,puerto rican,8
+59,male,naturalized citizen,cuban,73
+59,male,naturalized citizen,other,291
+59,female,born abroad of american parents,not hispanic,242
+59,female,born abroad of american parents,mexican,13
+59,female,born abroad of american parents,puerto rican,3
+59,female,born abroad of american parents,cuban,2
+59,female,born abroad of american parents,other,18
+59,female,naturalized citizen,not hispanic,1616
+59,female,naturalized citizen,mexican,347
+59,female,naturalized citizen,puerto rican,7
+59,female,naturalized citizen,cuban,72
+59,female,naturalized citizen,other,369
+60,male,born abroad of american parents,not hispanic,212
+60,male,born abroad of american parents,mexican,8
+60,male,born abroad of american parents,puerto rican,2
+60,male,born abroad of american parents,cuban,3
+60,male,born abroad of american parents,other,8
+60,male,naturalized citizen,not hispanic,1347
+60,male,naturalized citizen,mexican,345
+60,male,naturalized citizen,puerto rican,3
+60,male,naturalized citizen,cuban,75
+60,male,naturalized citizen,other,263
+60,female,born abroad of american parents,not hispanic,229
+60,female,born abroad of american parents,mexican,14
+60,female,born abroad of american parents,puerto rican,1
+60,female,born abroad of american parents,cuban,2
+60,female,born abroad of american parents,other,8
+60,female,naturalized citizen,not hispanic,1596
+60,female,naturalized citizen,mexican,353
+60,female,naturalized citizen,puerto rican,7
+60,female,naturalized citizen,cuban,93
+60,female,naturalized citizen,other,339
+61,male,born abroad of american parents,not hispanic,213
+61,male,born abroad of american parents,mexican,17
+61,male,born abroad of american parents,puerto rican,3
+61,male,born abroad of american parents,other,15
+61,male,naturalized citizen,not hispanic,1340
+61,male,naturalized citizen,mexican,317
+61,male,naturalized citizen,puerto rican,8
+61,male,naturalized citizen,cuban,77
+61,male,naturalized citizen,other,260
+61,female,born abroad of american parents,not hispanic,197
+61,female,born abroad of american parents,mexican,17
+61,female,born abroad of american parents,other,5
+61,female,naturalized citizen,not hispanic,1653
+61,female,naturalized citizen,mexican,360
+61,female,naturalized citizen,puerto rican,7
+61,female,naturalized citizen,cuban,78
+61,female,naturalized citizen,other,347
+62,male,born abroad of american parents,not hispanic,193
+62,male,born abroad of american parents,mexican,10
+62,male,born abroad of american parents,puerto rican,3
+62,male,born abroad of american parents,cuban,3
+62,male,born abroad of american parents,other,8
+62,male,naturalized citizen,not hispanic,1311
+62,male,naturalized citizen,mexican,290
+62,male,naturalized citizen,puerto rican,4
+62,male,naturalized citizen,cuban,89
+62,male,naturalized citizen,other,238
+62,female,born abroad of american parents,not hispanic,229
+62,female,born abroad of american parents,mexican,11
+62,female,born abroad of american parents,puerto rican,2
+62,female,born abroad of american parents,cuban,1
+62,female,born abroad of american parents,other,9
+62,female,naturalized citizen,not hispanic,1514
+62,female,naturalized citizen,mexican,316
+62,female,naturalized citizen,puerto rican,5
+62,female,naturalized citizen,cuban,67
+62,female,naturalized citizen,other,299
+63,male,born abroad of american parents,not hispanic,197
+63,male,born abroad of american parents,mexican,9
+63,male,born abroad of american parents,other,9
+63,male,naturalized citizen,not hispanic,1351
+63,male,naturalized citizen,mexican,308
+63,male,naturalized citizen,puerto rican,5
+63,male,naturalized citizen,cuban,62
+63,male,naturalized citizen,other,221
+63,female,born abroad of american parents,not hispanic,220
+63,female,born abroad of american parents,mexican,13
+63,female,born abroad of american parents,puerto rican,1
+63,female,born abroad of american parents,cuban,1
+63,female,born abroad of american parents,other,8
+63,female,naturalized citizen,not hispanic,1522
+63,female,naturalized citizen,mexican,308
+63,female,naturalized citizen,puerto rican,6
+63,female,naturalized citizen,cuban,79
+63,female,naturalized citizen,other,311
+64,male,born abroad of american parents,not hispanic,171
+64,male,born abroad of american parents,mexican,12
+64,male,born abroad of american parents,puerto rican,2
+64,male,born abroad of american parents,other,11
+64,male,naturalized citizen,not hispanic,1215
+64,male,naturalized citizen,mexican,288
+64,male,naturalized citizen,puerto rican,4
+64,male,naturalized citizen,cuban,59
+64,male,naturalized citizen,other,217
+64,female,born abroad of american parents,not hispanic,193
+64,female,born abroad of american parents,mexican,9
+64,female,born abroad of american parents,puerto rican,2
+64,female,born abroad of american parents,other,6
+64,female,naturalized citizen,not hispanic,1487
+64,female,naturalized citizen,mexican,324
+64,female,naturalized citizen,puerto rican,6
+64,female,naturalized citizen,cuban,76
+64,female,naturalized citizen,other,291
+65,male,born abroad of american parents,not hispanic,143
+65,male,born abroad of american parents,mexican,15
+65,male,born abroad of american parents,cuban,1
+65,male,born abroad of american parents,other,6
+65,male,naturalized citizen,not hispanic,1262
+65,male,naturalized citizen,mexican,257
+65,male,naturalized citizen,puerto rican,3
+65,male,naturalized citizen,cuban,68
+65,male,naturalized citizen,other,198
+65,female,born abroad of american parents,not hispanic,178
+65,female,born abroad of american parents,mexican,8
+65,female,born abroad of american parents,puerto rican,1
+65,female,born abroad of american parents,cuban,2
+65,female,born abroad of american parents,other,4
+65,female,naturalized citizen,not hispanic,1430
+65,female,naturalized citizen,mexican,279
+65,female,naturalized citizen,puerto rican,2
+65,female,naturalized citizen,cuban,71
+65,female,naturalized citizen,other,263
+66,male,born abroad of american parents,not hispanic,141
+66,male,born abroad of american parents,mexican,5
+66,male,born abroad of american parents,puerto rican,2
+66,male,born abroad of american parents,cuban,1
+66,male,born abroad of american parents,other,8
+66,male,naturalized citizen,not hispanic,1310
+66,male,naturalized citizen,mexican,298
+66,male,naturalized citizen,puerto rican,4
+66,male,naturalized citizen,cuban,58
+66,male,naturalized citizen,other,212
+66,female,born abroad of american parents,not hispanic,168
+66,female,born abroad of american parents,mexican,3
+66,female,born abroad of american parents,puerto rican,2
+66,female,born abroad of american parents,cuban,2
+66,female,born abroad of american parents,other,3
+66,female,naturalized citizen,not hispanic,1454
+66,female,naturalized citizen,mexican,267
+66,female,naturalized citizen,puerto rican,6
+66,female,naturalized citizen,cuban,84
+66,female,naturalized citizen,other,251
+67,male,born abroad of american parents,not hispanic,103
+67,male,born abroad of american parents,mexican,12
+67,male,born abroad of american parents,puerto rican,1
+67,male,born abroad of american parents,cuban,1
+67,male,born abroad of american parents,other,3
+67,male,naturalized citizen,not hispanic,1162
+67,male,naturalized citizen,mexican,221
+67,male,naturalized citizen,puerto rican,4
+67,male,naturalized citizen,cuban,76
+67,male,naturalized citizen,other,177
+67,female,born abroad of american parents,not hispanic,119
+67,female,born abroad of american parents,mexican,7
+67,female,born abroad of american parents,cuban,1
+67,female,born abroad of american parents,other,6
+67,female,naturalized citizen,not hispanic,1367
+67,female,naturalized citizen,mexican,264
+67,female,naturalized citizen,puerto rican,5
+67,female,naturalized citizen,cuban,81
+67,female,naturalized citizen,other,251
+68,male,born abroad of american parents,not hispanic,93
+68,male,born abroad of american parents,mexican,11
+68,male,born abroad of american parents,puerto rican,2
+68,male,born abroad of american parents,cuban,1
+68,male,born abroad of american parents,other,5
+68,male,naturalized citizen,not hispanic,1115
+68,male,naturalized citizen,mexican,255
+68,male,naturalized citizen,puerto rican,6
+68,male,naturalized citizen,cuban,63
+68,male,naturalized citizen,other,171
+68,female,born abroad of american parents,not hispanic,99
+68,female,born abroad of american parents,mexican,7
+68,female,born abroad of american parents,puerto rican,1
+68,female,born abroad of american parents,cuban,2
+68,female,born abroad of american parents,other,5
+68,female,naturalized citizen,not hispanic,1302
+68,female,naturalized citizen,mexican,292
+68,female,naturalized citizen,puerto rican,4
+68,female,naturalized citizen,cuban,86
+68,female,naturalized citizen,other,250
+69,male,born abroad of american parents,not hispanic,105
+69,male,born abroad of american parents,mexican,13
+69,male,born abroad of american parents,other,3
+69,male,naturalized citizen,not hispanic,1170
+69,male,naturalized citizen,mexican,218
+69,male,naturalized citizen,puerto rican,1
+69,male,naturalized citizen,cuban,56
+69,male,naturalized citizen,other,175
+69,female,born abroad of american parents,not hispanic,96
+69,female,born abroad of american parents,mexican,13
+69,female,born abroad of american parents,cuban,2
+69,female,born abroad of american parents,other,4
+69,female,naturalized citizen,not hispanic,1353
+69,female,naturalized citizen,mexican,202
+69,female,naturalized citizen,puerto rican,5
+69,female,naturalized citizen,cuban,69
+69,female,naturalized citizen,other,230
+70,male,born abroad of american parents,not hispanic,97
+70,male,born abroad of american parents,mexican,9
+70,male,born abroad of american parents,cuban,3
+70,male,born abroad of american parents,other,2
+70,male,naturalized citizen,not hispanic,1059
+70,male,naturalized citizen,mexican,191
+70,male,naturalized citizen,puerto rican,1
+70,male,naturalized citizen,cuban,54
+70,male,naturalized citizen,other,137
+70,female,born abroad of american parents,not hispanic,95
+70,female,born abroad of american parents,mexican,10
+70,female,born abroad of american parents,cuban,2
+70,female,born abroad of american parents,other,6
+70,female,naturalized citizen,not hispanic,1350
+70,female,naturalized citizen,mexican,193
+70,female,naturalized citizen,puerto rican,2
+70,female,naturalized citizen,cuban,83
+70,female,naturalized citizen,other,192
+71,male,born abroad of american parents,not hispanic,85
+71,male,born abroad of american parents,mexican,9
+71,male,born abroad of american parents,cuban,1
+71,male,born abroad of american parents,other,5
+71,male,naturalized citizen,not hispanic,1161
+71,male,naturalized citizen,mexican,196
+71,male,naturalized citizen,puerto rican,4
+71,male,naturalized citizen,cuban,55
+71,male,naturalized citizen,other,133
+71,female,born abroad of american parents,not hispanic,74
+71,female,born abroad of american parents,mexican,12
+71,female,born abroad of american parents,cuban,2
+71,female,born abroad of american parents,other,2
+71,female,naturalized citizen,not hispanic,1370
+71,female,naturalized citizen,mexican,216
+71,female,naturalized citizen,puerto rican,4
+71,female,naturalized citizen,cuban,75
+71,female,naturalized citizen,other,211
+72,male,born abroad of american parents,not hispanic,60
+72,male,born abroad of american parents,mexican,4
+72,male,born abroad of american parents,other,2
+72,male,naturalized citizen,not hispanic,1094
+72,male,naturalized citizen,mexican,183
+72,male,naturalized citizen,puerto rican,4
+72,male,naturalized citizen,cuban,64
+72,male,naturalized citizen,other,116
+72,female,born abroad of american parents,not hispanic,81
+72,female,born abroad of american parents,mexican,7
+72,female,born abroad of american parents,other,3
+72,female,naturalized citizen,not hispanic,1306
+72,female,naturalized citizen,mexican,199
+72,female,naturalized citizen,puerto rican,4
+72,female,naturalized citizen,cuban,61
+72,female,naturalized citizen,other,192
+73,male,born abroad of american parents,not hispanic,64
+73,male,born abroad of american parents,mexican,5
+73,male,born abroad of american parents,puerto rican,1
+73,male,born abroad of american parents,cuban,1
+73,male,born abroad of american parents,other,4
+73,male,naturalized citizen,not hispanic,888
+73,male,naturalized citizen,mexican,164
+73,male,naturalized citizen,puerto rican,3
+73,male,naturalized citizen,cuban,68
+73,male,naturalized citizen,other,125
+73,female,born abroad of american parents,not hispanic,83
+73,female,born abroad of american parents,mexican,4
+73,female,born abroad of american parents,puerto rican,1
+73,female,born abroad of american parents,cuban,1
+73,female,born abroad of american parents,other,2
+73,female,naturalized citizen,not hispanic,1103
+73,female,naturalized citizen,mexican,188
+73,female,naturalized citizen,puerto rican,5
+73,female,naturalized citizen,cuban,69
+73,female,naturalized citizen,other,189
+74,male,born abroad of american parents,not hispanic,55
+74,male,born abroad of american parents,mexican,4
+74,male,born abroad of american parents,puerto rican,1
+74,male,born abroad of american parents,other,1
+74,male,naturalized citizen,not hispanic,805
+74,male,naturalized citizen,mexican,129
+74,male,naturalized citizen,puerto rican,4
+74,male,naturalized citizen,cuban,63
+74,male,naturalized citizen,other,100
+74,female,born abroad of american parents,not hispanic,43
+74,female,born abroad of american parents,mexican,9
+74,female,born abroad of american parents,puerto rican,1
+74,female,born abroad of american parents,other,4
+74,female,naturalized citizen,not hispanic,1056
+74,female,naturalized citizen,mexican,178
+74,female,naturalized citizen,puerto rican,1
+74,female,naturalized citizen,cuban,58
+74,female,naturalized citizen,other,151
+75,male,born abroad of american parents,not hispanic,36
+75,male,born abroad of american parents,mexican,8
+75,male,born abroad of american parents,puerto rican,2
+75,male,born abroad of american parents,cuban,2
+75,male,born abroad of american parents,other,2
+75,male,naturalized citizen,not hispanic,781
+75,male,naturalized citizen,mexican,136
+75,male,naturalized citizen,puerto rican,5
+75,male,naturalized citizen,cuban,41
+75,male,naturalized citizen,other,106
+75,female,born abroad of american parents,not hispanic,46
+75,female,born abroad of american parents,mexican,5
+75,female,born abroad of american parents,other,4
+75,female,naturalized citizen,not hispanic,959
+75,female,naturalized citizen,mexican,167
+75,female,naturalized citizen,puerto rican,5
+75,female,naturalized citizen,cuban,66
+75,female,naturalized citizen,other,173
+76,male,born abroad of american parents,not hispanic,15
+76,male,born abroad of american parents,mexican,5
+76,male,born abroad of american parents,other,3
+76,male,naturalized citizen,not hispanic,678
+76,male,naturalized citizen,mexican,126
+76,male,naturalized citizen,puerto rican,1
+76,male,naturalized citizen,cuban,62
+76,male,naturalized citizen,other,72
+76,female,born abroad of american parents,not hispanic,27
+76,female,born abroad of american parents,mexican,3
+76,female,born abroad of american parents,cuban,1
+76,female,born abroad of american parents,other,1
+76,female,naturalized citizen,not hispanic,890
+76,female,naturalized citizen,mexican,144
+76,female,naturalized citizen,puerto rican,8
+76,female,naturalized citizen,cuban,55
+76,female,naturalized citizen,other,167
+77,male,born abroad of american parents,not hispanic,28
+77,male,born abroad of american parents,mexican,4
+77,male,naturalized citizen,not hispanic,697
+77,male,naturalized citizen,mexican,131
+77,male,naturalized citizen,puerto rican,1
+77,male,naturalized citizen,cuban,53
+77,male,naturalized citizen,other,85
+77,female,born abroad of american parents,not hispanic,25
+77,female,born abroad of american parents,mexican,5
+77,female,born abroad of american parents,cuban,1
+77,female,born abroad of american parents,other,1
+77,female,naturalized citizen,not hispanic,806
+77,female,naturalized citizen,mexican,129
+77,female,naturalized citizen,puerto rican,3
+77,female,naturalized citizen,cuban,58
+77,female,naturalized citizen,other,119
+78,male,born abroad of american parents,not hispanic,25
+78,male,born abroad of american parents,mexican,4
+78,male,born abroad of american parents,puerto rican,2
+78,male,born abroad of american parents,other,1
+78,male,naturalized citizen,not hispanic,624
+78,male,naturalized citizen,mexican,94
+78,male,naturalized citizen,puerto rican,1
+78,male,naturalized citizen,cuban,50
+78,male,naturalized citizen,other,70
+78,female,born abroad of american parents,not hispanic,39
+78,female,born abroad of american parents,mexican,3
+78,female,born abroad of american parents,other,3
+78,female,naturalized citizen,not hispanic,835
+78,female,naturalized citizen,mexican,149
+78,female,naturalized citizen,cuban,52
+78,female,naturalized citizen,other,176
+79,male,born abroad of american parents,not hispanic,31
+79,male,born abroad of american parents,mexican,1
+79,male,born abroad of american parents,cuban,1
+79,male,born abroad of american parents,other,1
+79,male,naturalized citizen,not hispanic,610
+79,male,naturalized citizen,mexican,108
+79,male,naturalized citizen,puerto rican,1
+79,male,naturalized citizen,cuban,43
+79,male,naturalized citizen,other,66
+79,female,born abroad of american parents,not hispanic,30
+79,female,born abroad of american parents,mexican,4
+79,female,born abroad of american parents,puerto rican,1
+79,female,born abroad of american parents,cuban,1
+79,female,born abroad of american parents,other,2
+79,female,naturalized citizen,not hispanic,793
+79,female,naturalized citizen,mexican,114
+79,female,naturalized citizen,puerto rican,3
+79,female,naturalized citizen,cuban,82
+79,female,naturalized citizen,other,114
+80,male,born abroad of american parents,not hispanic,18
+80,male,born abroad of american parents,mexican,2
+80,male,born abroad of american parents,cuban,3
+80,male,naturalized citizen,not hispanic,535
+80,male,naturalized citizen,mexican,77
+80,male,naturalized citizen,puerto rican,3
+80,male,naturalized citizen,cuban,48
+80,male,naturalized citizen,other,72
+80,female,born abroad of american parents,not hispanic,33
+80,female,born abroad of american parents,mexican,2
+80,female,born abroad of american parents,cuban,1
+80,female,naturalized citizen,not hispanic,750
+80,female,naturalized citizen,mexican,121
+80,female,naturalized citizen,puerto rican,3
+80,female,naturalized citizen,cuban,57
+80,female,naturalized citizen,other,87
+81,male,born abroad of american parents,not hispanic,28
+81,male,born abroad of american parents,mexican,6
+81,male,born abroad of american parents,cuban,1
+81,male,born abroad of american parents,other,1
+81,male,naturalized citizen,not hispanic,525
+81,male,naturalized citizen,mexican,76
+81,male,naturalized citizen,puerto rican,4
+81,male,naturalized citizen,cuban,47
+81,male,naturalized citizen,other,54
+81,female,born abroad of american parents,not hispanic,23
+81,female,born abroad of american parents,mexican,3
+81,female,born abroad of american parents,other,4
+81,female,naturalized citizen,not hispanic,732
+81,female,naturalized citizen,mexican,115
+81,female,naturalized citizen,puerto rican,3
+81,female,naturalized citizen,cuban,65
+81,female,naturalized citizen,other,100
+82,male,born abroad of american parents,not hispanic,16
+82,male,born abroad of american parents,mexican,3
+82,male,born abroad of american parents,cuban,1
+82,male,born abroad of american parents,other,3
+82,male,naturalized citizen,not hispanic,463
+82,male,naturalized citizen,mexican,53
+82,male,naturalized citizen,puerto rican,3
+82,male,naturalized citizen,cuban,50
+82,male,naturalized citizen,other,60
+82,female,born abroad of american parents,not hispanic,32
+82,female,born abroad of american parents,mexican,4
+82,female,born abroad of american parents,cuban,1
+82,female,naturalized citizen,not hispanic,619
+82,female,naturalized citizen,mexican,81
+82,female,naturalized citizen,puerto rican,2
+82,female,naturalized citizen,cuban,62
+82,female,naturalized citizen,other,101
+83,male,born abroad of american parents,not hispanic,30
+83,male,born abroad of american parents,mexican,2
+83,male,naturalized citizen,not hispanic,477
+83,male,naturalized citizen,mexican,58
+83,male,naturalized citizen,puerto rican,2
+83,male,naturalized citizen,cuban,46
+83,male,naturalized citizen,other,46
+83,female,born abroad of american parents,not hispanic,31
+83,female,born abroad of american parents,mexican,2
+83,female,born abroad of american parents,cuban,1
+83,female,naturalized citizen,not hispanic,627
+83,female,naturalized citizen,mexican,102
+83,female,naturalized citizen,puerto rican,1
+83,female,naturalized citizen,cuban,60
+83,female,naturalized citizen,other,100
+84,male,born abroad of american parents,not hispanic,21
+84,male,born abroad of american parents,mexican,1
+84,male,naturalized citizen,not hispanic,356
+84,male,naturalized citizen,mexican,49
+84,male,naturalized citizen,puerto rican,2
+84,male,naturalized citizen,cuban,38
+84,male,naturalized citizen,other,59
+84,female,born abroad of american parents,not hispanic,31
+84,female,born abroad of american parents,mexican,1
+84,female,naturalized citizen,not hispanic,558
+84,female,naturalized citizen,mexican,87
+84,female,naturalized citizen,puerto rican,2
+84,female,naturalized citizen,cuban,50
+84,female,naturalized citizen,other,62
+85,male,born abroad of american parents,not hispanic,21
+85,male,born abroad of american parents,mexican,1
+85,male,naturalized citizen,not hispanic,323
+85,male,naturalized citizen,mexican,47
+85,male,naturalized citizen,puerto rican,2
+85,male,naturalized citizen,cuban,32
+85,male,naturalized citizen,other,48
+85,female,born abroad of american parents,not hispanic,20
+85,female,born abroad of american parents,mexican,1
+85,female,born abroad of american parents,other,1
+85,female,naturalized citizen,not hispanic,475
+85,female,naturalized citizen,mexican,73
+85,female,naturalized citizen,puerto rican,2
+85,female,naturalized citizen,cuban,68
+85,female,naturalized citizen,other,65
+86,male,born abroad of american parents,not hispanic,14
+86,male,born abroad of american parents,mexican,3
+86,male,naturalized citizen,not hispanic,319
+86,male,naturalized citizen,mexican,39
+86,male,naturalized citizen,cuban,25
+86,male,naturalized citizen,other,33
+86,female,born abroad of american parents,not hispanic,23
+86,female,born abroad of american parents,mexican,2
+86,female,naturalized citizen,not hispanic,496
+86,female,naturalized citizen,mexican,65
+86,female,naturalized citizen,puerto rican,1
+86,female,naturalized citizen,cuban,53
+86,female,naturalized citizen,other,72
+87,male,born abroad of american parents,not hispanic,21
+87,male,born abroad of american parents,other,2
+87,male,naturalized citizen,not hispanic,271
+87,male,naturalized citizen,mexican,45
+87,male,naturalized citizen,cuban,30
+87,male,naturalized citizen,other,34
+87,female,born abroad of american parents,not hispanic,21
+87,female,born abroad of american parents,mexican,1
+87,female,born abroad of american parents,other,2
+87,female,naturalized citizen,not hispanic,383
+87,female,naturalized citizen,mexican,64
+87,female,naturalized citizen,puerto rican,1
+87,female,naturalized citizen,cuban,35
+87,female,naturalized citizen,other,48
+88,male,born abroad of american parents,not hispanic,15
+88,male,born abroad of american parents,mexican,1
+88,male,naturalized citizen,not hispanic,228
+88,male,naturalized citizen,mexican,25
+88,male,naturalized citizen,cuban,27
+88,male,naturalized citizen,other,27
+88,female,born abroad of american parents,not hispanic,16
+88,female,born abroad of american parents,mexican,4
+88,female,born abroad of american parents,other,5
+88,female,naturalized citizen,not hispanic,351
+88,female,naturalized citizen,mexican,41
+88,female,naturalized citizen,puerto rican,4
+88,female,naturalized citizen,cuban,51
+88,female,naturalized citizen,other,54
+89,male,born abroad of american parents,not hispanic,16
+89,male,naturalized citizen,not hispanic,196
+89,male,naturalized citizen,mexican,26
+89,male,naturalized citizen,puerto rican,2
+89,male,naturalized citizen,cuban,31
+89,male,naturalized citizen,other,14
+89,female,born abroad of american parents,not hispanic,17
+89,female,born abroad of american parents,cuban,1
+89,female,naturalized citizen,not hispanic,351
+89,female,naturalized citizen,mexican,44
+89,female,naturalized citizen,puerto rican,2
+89,female,naturalized citizen,cuban,27
+89,female,naturalized citizen,other,41
+90,male,born abroad of american parents,not hispanic,10
+90,male,born abroad of american parents,cuban,1
+90,male,naturalized citizen,not hispanic,151
+90,male,naturalized citizen,mexican,12
+90,male,naturalized citizen,cuban,13
+90,male,naturalized citizen,other,12
+90,female,born abroad of american parents,not hispanic,7
+90,female,born abroad of american parents,puerto rican,1
+90,female,born abroad of american parents,cuban,1
+90,female,naturalized citizen,not hispanic,335
+90,female,naturalized citizen,mexican,24
+90,female,naturalized citizen,puerto rican,3
+90,female,naturalized citizen,cuban,33
+90,female,naturalized citizen,other,36
+91,male,born abroad of american parents,not hispanic,10
+91,male,naturalized citizen,not hispanic,114
+91,male,naturalized citizen,mexican,14
+91,male,naturalized citizen,puerto rican,1
+91,male,naturalized citizen,cuban,20
+91,male,naturalized citizen,other,17
+91,female,born abroad of american parents,not hispanic,11
+91,female,born abroad of american parents,puerto rican,1
+91,female,born abroad of american parents,other,1
+91,female,naturalized citizen,not hispanic,253
+91,female,naturalized citizen,mexican,18
+91,female,naturalized citizen,puerto rican,1
+91,female,naturalized citizen,cuban,33
+91,female,naturalized citizen,other,28
+92,male,born abroad of american parents,not hispanic,3
+92,male,naturalized citizen,not hispanic,52
+92,male,naturalized citizen,mexican,1
+92,male,naturalized citizen,cuban,15
+92,male,naturalized citizen,other,9
+92,female,born abroad of american parents,not hispanic,14
+92,female,naturalized citizen,not hispanic,99
+92,female,naturalized citizen,cuban,36
+92,female,naturalized citizen,other,11
+93,male,born abroad of american parents,not hispanic,4
+93,male,born abroad of american parents,other,1
+93,male,naturalized citizen,not hispanic,35
+93,male,naturalized citizen,mexican,19
+93,male,naturalized citizen,cuban,3
+93,male,naturalized citizen,other,1
+93,female,born abroad of american parents,not hispanic,7
+93,female,born abroad of american parents,mexican,2
+93,female,naturalized citizen,not hispanic,84
+93,female,naturalized citizen,mexican,48
+93,female,naturalized citizen,cuban,4
+93,female,naturalized citizen,other,11
+94,male,born abroad of american parents,not hispanic,2
+94,male,born abroad of american parents,puerto rican,1
+94,male,naturalized citizen,not hispanic,33
+94,male,naturalized citizen,mexican,3
+94,male,naturalized citizen,other,2
+94,female,born abroad of american parents,not hispanic,3
+94,female,naturalized citizen,not hispanic,90
+94,female,naturalized citizen,mexican,4
+94,female,naturalized citizen,cuban,2
+94,female,naturalized citizen,other,6
+95,male,born abroad of american parents,not hispanic,15
+95,male,born abroad of american parents,mexican,3
+95,male,born abroad of american parents,cuban,1
+95,male,naturalized citizen,not hispanic,257
+95,male,naturalized citizen,mexican,35
+95,male,naturalized citizen,cuban,8
+95,male,naturalized citizen,other,20
+95,female,born abroad of american parents,not hispanic,36
+95,female,born abroad of american parents,mexican,3
+95,female,naturalized citizen,not hispanic,602
+95,female,naturalized citizen,mexican,63
+95,female,naturalized citizen,cuban,8
+95,female,naturalized citizen,other,46
+96,male,born abroad of american parents,not hispanic,10
+96,male,born abroad of american parents,cuban,1
+96,male,naturalized citizen,not hispanic,132
+96,male,naturalized citizen,mexican,1
+96,male,naturalized citizen,puerto rican,1
+96,male,naturalized citizen,cuban,35
+96,male,naturalized citizen,other,7
+96,female,born abroad of american parents,not hispanic,15
+96,female,naturalized citizen,not hispanic,281
+96,female,naturalized citizen,mexican,3
+96,female,naturalized citizen,puerto rican,2
+96,female,naturalized citizen,cuban,74
+96,female,naturalized citizen,other,52
+97,male,born abroad of american parents,not hispanic,1
+97,male,naturalized citizen,not hispanic,12
+97,female,naturalized citizen,not hispanic,36
