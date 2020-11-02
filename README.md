@@ -1,1 +1,1 @@
-# STA304-ProblemSet-3---Group-20
+# STA304-ProblemSet3-Group20
